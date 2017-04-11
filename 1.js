@@ -4,4 +4,6 @@ window.onload = function(){
 	var index = 100;
 	index += 100;
 	console.log(index);
+	console.log(index+1)
+	console.log(index+2)
 }
