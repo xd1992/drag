@@ -2,6 +2,7 @@
 <script>
 		for(var i = 0; i<=20; i++){
 			//document.write(i+'<br>');
+			//判断
 			if(i%2 == 0){
 				document.write(i+"<br>");
 			}
