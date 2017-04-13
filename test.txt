@@ -9,5 +9,6 @@
 				console.log('ganshane');
 			}
 		}
+		//add a comment
 </script>
 /  /这也是一个注释
